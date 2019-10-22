@@ -1,0 +1,13 @@
+package j25.cloud.eureka.eureka;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EurekaApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

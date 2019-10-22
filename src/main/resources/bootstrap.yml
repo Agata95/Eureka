@@ -1,0 +1,7 @@
+# konfiguracja znajduje się na porcie 8002
+spring:
+  application:
+    name: eureka
+  cloud:
+    config:
+      uri: http://localhost:8002
